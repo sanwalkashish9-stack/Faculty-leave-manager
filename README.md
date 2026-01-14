@@ -6,7 +6,7 @@ The system helps in applying, approving, and maintaining leave records efficient
 
 Project Link
 👉 Add your project repository link here:  
-https://github.com/your-username/jims-faculty-leave-management
+https://github.com/sanwalkashish9-stack/Faculty-leave-manager/blob/main/FacultyLeaveManager%20(1).zip
 
  🎯 Purpose of the Project
 - To reduce manual paperwork  
