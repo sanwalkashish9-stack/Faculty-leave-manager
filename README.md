@@ -1,7 +1,7 @@
 # Faculty-leave-manager
 # JIMS Faculty Leave Management System
 Project Description
-The **JIMS Faculty Leave Management System** is a web-based application developed to manage and automate the faculty leave process at **Jagannath Institute of Management Sciences (JIMS)**.  
+The **JIMS Faculty Leave Management System** is a web-based application developed to manage and automate the faculty leave process at **Jagan Institute of Management Sciences (JIMS)**.  
 The system helps in applying, approving, and maintaining leave records efficiently.
 
 Project Link
@@ -39,7 +39,18 @@ Working of the System
 2. Leave request is submitted  
 3. Admin reviews the request  
 4. Request is approved or rejected  
-5. Leave data is stored in the database  
+5. Leave data is stored in the database
+
+My Role & Responsibilities
+
+Role: Database and Backend Connection Manager
+
+Responsibilities:
+	•	Designed and managed the database schema for storing faculty, leave, and approval records
+	•	Established secure backend–database connectivity using Python (Flask/Django)
+	•	Handled CRUD operations (Create, Read, Update, Delete) for leave data
+	•	Ensured data integrity, consistency, and secure storage
+	•	Assisted in backend logic for leave approval and rejection workflow
 
 Conclusion
 The **JIMS Faculty Leave Management System** provides a reliable and efficient way to manage faculty leave processes digitally, reducing manual effort and improving accuracy.
